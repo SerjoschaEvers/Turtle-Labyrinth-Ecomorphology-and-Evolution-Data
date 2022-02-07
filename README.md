@@ -16,7 +16,7 @@ TO PERFORM ANALYSES ON TURTLE LABYRINTH DATA
 	- Dataset 9: performs GPA & labyrinth size regression analyses, produces Table 2 of main text
 		- Dataset 10: output of 9, represents full version of table printed as Table 2 of main text
 		- Dataset 11: as S10, but using different phylogenetic tree as a sensitivity analysis
-	- Dataset S12: prints regression and residual plot, and performs ancestral state reconstructions; produces Figure 2 of main text
+	- Dataset 12: prints regression and residual plot, and performs ancestral state reconstructions; produces Figure 2 of main text
 3. Note that Datasets 10–11 are an output list of the script Dataset 9
 
 
