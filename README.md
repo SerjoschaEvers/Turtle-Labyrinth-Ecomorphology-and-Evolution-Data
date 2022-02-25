@@ -1,6 +1,12 @@
 # Turtle-Labyrinth-Ecomorphology-and-Evolution-Data
 Supplementary Data Files to the paper "Independent origin of large labyrinth size in turtles"
 
+#####
+
+v1.1 Update with regard to v1.0: updated taxonomy for mammal species in files to match MorphoSource records of CT data
+
+#####
+
 TO PERFORM ANALYSES ON TURTLE LABYRINTH DATA
 
 1. Store Datasets 1–6: these contain data to be read by the R-scripts
