@@ -42,6 +42,3 @@ TO PERFORM ANALYSES ON AMNIOTE LABYRINTH DATA
 	- Dataset 18: Landmark data for 200 amniote specimens as csv files (3D coordinate data)
 	- Dataset 19: information about which landmarks are used as sliding semilandmarks
 2. Open Dataset 20 in R to run the amniote analysis. This script contains commands to read Datasets 17–19. Produces Figure 4 of main text.
-
-#####
-Dataset 21: This is the Source Data file for main text figures and supplementary figures that use numeric values plotted in graphs. The spreadsheet has several sheets, all for a figure or figure panel. These can be used to reproduce the figures directly (i.e., without having to run the R scripts, which produce the same figures).
